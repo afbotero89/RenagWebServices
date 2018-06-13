@@ -1,0 +1,166 @@
+[25-Aug-2016 20:52:45 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[25-Aug-2016 20:52:45 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[27-Aug-2016 22:18:08 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[27-Aug-2016 22:18:08 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[31-Aug-2016 07:37:22 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[31-Aug-2016 07:37:22 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[06-Sep-2016 02:49:08 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[06-Sep-2016 02:49:08 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[15-Sep-2016 04:08:30 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[15-Sep-2016 04:08:30 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[18-Sep-2016 21:39:35 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[18-Sep-2016 21:39:35 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[02-Oct-2016 14:04:53 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[02-Oct-2016 14:04:53 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[23-Oct-2016 03:22:28 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[23-Oct-2016 03:22:28 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[03-Dec-2016 06:03:54 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[03-Dec-2016 06:03:54 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[07-Dec-2016 16:34:09 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[07-Dec-2016 16:34:09 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[08-Dec-2016 09:35:42 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[08-Dec-2016 09:35:42 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[12-Dec-2016 20:01:25 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[12-Dec-2016 20:01:25 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[01-Jan-2017 12:36:43 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[01-Jan-2017 12:36:43 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[06-Jan-2017 02:42:08 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[06-Jan-2017 02:42:08 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[08-Jan-2017 17:32:44 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[08-Jan-2017 17:32:44 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[16-Jan-2017 21:57:24 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[16-Jan-2017 21:57:24 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[16-Jan-2017 21:57:25 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[16-Jan-2017 21:57:25 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[22-Jan-2017 02:00:04 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[22-Jan-2017 02:00:04 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[27-Jan-2017 20:29:27 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[27-Jan-2017 20:29:27 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[06-Feb-2017 01:30:23 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[06-Feb-2017 01:30:23 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[12-Feb-2017 09:08:06 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[12-Feb-2017 09:08:06 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[15-Feb-2017 09:32:29 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[15-Feb-2017 09:32:29 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[15-Feb-2017 21:54:57 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[15-Feb-2017 21:54:57 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[15-Feb-2017 21:54:57 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[15-Feb-2017 21:54:57 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[24-Feb-2017 17:50:46 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[24-Feb-2017 17:50:46 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[17-Mar-2017 21:49:36 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[17-Mar-2017 21:49:36 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[17-Mar-2017 21:49:36 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[17-Mar-2017 21:49:36 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[18-Mar-2017 16:49:30 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[18-Mar-2017 16:49:30 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[22-Mar-2017 12:43:54 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[22-Mar-2017 12:43:54 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[03-Apr-2017 10:06:05 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[03-Apr-2017 10:06:05 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[08-Apr-2017 15:50:03 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[08-Apr-2017 15:50:03 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[16-Apr-2017 21:49:46 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[16-Apr-2017 21:49:46 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[16-Apr-2017 21:49:46 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[16-Apr-2017 21:49:46 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[23-Apr-2017 14:51:15 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[23-Apr-2017 14:51:15 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[27-Apr-2017 22:50:05 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[27-Apr-2017 22:50:05 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[01-May-2017 22:05:17 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[01-May-2017 22:05:17 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[07-May-2017 10:28:31 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[07-May-2017 10:28:31 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[07-May-2017 17:30:32 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[07-May-2017 17:30:32 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[07-May-2017 23:27:26 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[07-May-2017 23:27:26 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[10-May-2017 20:21:14 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[10-May-2017 20:21:14 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[12-May-2017 18:17:34 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[12-May-2017 18:17:34 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[14-May-2017 16:13:13 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[14-May-2017 16:13:13 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[16-May-2017 21:51:54 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[16-May-2017 21:51:54 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[16-May-2017 21:51:54 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[16-May-2017 21:51:54 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[23-May-2017 01:15:28 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[23-May-2017 01:15:28 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[15-Jun-2017 21:49:40 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[15-Jun-2017 21:49:40 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[15-Jun-2017 21:49:41 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[15-Jun-2017 21:49:41 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[16-Jun-2017 04:11:34 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[16-Jun-2017 04:11:34 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[16-Jun-2017 17:56:14 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[16-Jun-2017 17:56:14 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[24-Jun-2017 04:56:07 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[24-Jun-2017 04:56:07 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[25-Jun-2017 07:23:21 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[25-Jun-2017 07:23:21 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[27-Jun-2017 14:20:08 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[27-Jun-2017 14:20:08 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[01-Jul-2017 20:18:57 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[01-Jul-2017 20:18:57 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[06-Jul-2017 07:27:09 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[06-Jul-2017 07:27:09 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[06-Jul-2017 15:29:37 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[06-Jul-2017 15:29:37 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[11-Jul-2017 23:49:05 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[11-Jul-2017 23:49:05 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[15-Jul-2017 21:49:29 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[15-Jul-2017 21:49:29 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[15-Jul-2017 21:49:30 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[15-Jul-2017 21:49:30 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[10-Aug-2017 05:09:38 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[10-Aug-2017 05:09:38 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[12-Aug-2017 23:08:56 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[12-Aug-2017 23:08:56 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[14-Aug-2017 00:30:23 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[14-Aug-2017 00:30:23 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[14-Aug-2017 21:50:35 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[14-Aug-2017 21:50:35 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[14-Aug-2017 21:50:36 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[14-Aug-2017 21:50:36 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[02-Sep-2017 18:17:34 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[02-Sep-2017 18:17:34 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[06-Sep-2017 07:51:21 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[06-Sep-2017 07:51:21 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[09-Sep-2017 11:18:20 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[09-Sep-2017 11:18:20 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[10-Sep-2017 04:18:24 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[10-Sep-2017 04:18:24 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[13-Sep-2017 22:14:54 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[13-Sep-2017 22:14:54 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[13-Sep-2017 22:14:54 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[13-Sep-2017 22:14:54 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[14-Sep-2017 05:57:43 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[14-Sep-2017 05:57:43 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[13-Oct-2017 22:16:13 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[13-Oct-2017 22:16:13 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[13-Oct-2017 22:16:13 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[13-Oct-2017 22:16:13 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[14-Oct-2017 15:32:05 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[14-Oct-2017 15:32:05 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[18-Oct-2017 00:10:40 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[18-Oct-2017 00:10:40 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[05-Nov-2017 09:07:59 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[05-Nov-2017 09:07:59 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[08-Nov-2017 15:03:52 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[08-Nov-2017 15:03:52 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[12-Nov-2017 22:20:29 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[12-Nov-2017 22:20:29 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[12-Nov-2017 22:20:29 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[12-Nov-2017 22:20:29 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[14-Nov-2017 17:41:18 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[14-Nov-2017 17:41:18 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[26-Nov-2017 00:13:37 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[26-Nov-2017 00:13:37 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[28-Nov-2017 06:36:47 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[28-Nov-2017 06:36:47 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[12-Dec-2017 22:15:33 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[12-Dec-2017 22:15:33 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[12-Dec-2017 22:15:33 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8
+[12-Dec-2017 22:15:33 America/Denver] PHP Fatal error:  Call to a member function add() on null in /home2/tqgibicc/public_html/app_slim/v1/src/middlewares/jwt_auth_middleware.php on line 8

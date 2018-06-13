@@ -1,0 +1,292 @@
+[24-Aug-2016 08:29:44 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[24-Aug-2016 08:29:44 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[24-Aug-2016 20:32:36 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[24-Aug-2016 20:32:36 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[30-Aug-2016 09:56:16 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[30-Aug-2016 09:56:16 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[31-Aug-2016 13:45:17 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[31-Aug-2016 13:45:17 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[01-Sep-2016 11:26:57 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[01-Sep-2016 11:26:57 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[02-Sep-2016 16:06:56 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[02-Sep-2016 16:06:56 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[04-Sep-2016 14:44:37 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[04-Sep-2016 14:44:37 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[06-Sep-2016 07:20:06 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[06-Sep-2016 07:20:06 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[14-Sep-2016 22:37:38 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[14-Sep-2016 22:37:38 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[15-Sep-2016 16:36:43 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[15-Sep-2016 16:36:43 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[19-Sep-2016 19:52:37 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[19-Sep-2016 19:52:37 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[02-Oct-2016 14:03:27 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[02-Oct-2016 14:03:27 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[02-Oct-2016 14:03:33 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[02-Oct-2016 14:03:33 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[23-Oct-2016 03:22:15 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[23-Oct-2016 03:22:15 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[23-Oct-2016 03:22:19 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[23-Oct-2016 03:22:19 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[02-Dec-2016 19:04:47 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[02-Dec-2016 19:04:47 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[07-Dec-2016 09:40:59 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[07-Dec-2016 09:40:59 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[08-Dec-2016 11:23:13 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[08-Dec-2016 11:23:13 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[09-Dec-2016 18:33:57 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[09-Dec-2016 18:33:57 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[11-Dec-2016 07:20:06 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[11-Dec-2016 07:20:06 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[28-Dec-2016 01:47:45 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[28-Dec-2016 01:47:45 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[28-Dec-2016 01:59:08 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[28-Dec-2016 01:59:08 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[02-Jan-2017 15:07:05 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[02-Jan-2017 15:07:05 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[04-Jan-2017 07:11:11 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[04-Jan-2017 07:11:11 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[06-Jan-2017 16:03:22 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[06-Jan-2017 16:03:22 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[11-Jan-2017 13:37:49 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[11-Jan-2017 13:37:49 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[13-Jan-2017 18:10:41 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[13-Jan-2017 18:10:41 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[14-Jan-2017 20:42:16 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[14-Jan-2017 20:42:16 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[16-Jan-2017 08:48:03 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[16-Jan-2017 08:48:03 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[16-Jan-2017 21:57:34 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[16-Jan-2017 21:57:34 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[16-Jan-2017 21:57:35 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[16-Jan-2017 21:57:35 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[16-Jan-2017 21:58:11 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[16-Jan-2017 21:58:11 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[16-Jan-2017 21:58:12 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[16-Jan-2017 21:58:12 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[19-Jan-2017 14:36:28 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[19-Jan-2017 14:36:28 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[20-Jan-2017 17:53:28 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[20-Jan-2017 17:53:28 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[27-Jan-2017 16:42:11 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[27-Jan-2017 16:42:11 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[04-Feb-2017 06:00:55 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[04-Feb-2017 06:00:55 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[04-Feb-2017 10:21:44 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[04-Feb-2017 10:21:44 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[15-Feb-2017 21:55:01 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[15-Feb-2017 21:55:01 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[15-Feb-2017 21:55:02 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[15-Feb-2017 21:55:02 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[15-Feb-2017 21:55:16 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[15-Feb-2017 21:55:16 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[15-Feb-2017 21:55:16 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[15-Feb-2017 21:55:16 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[24-Feb-2017 17:50:48 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[24-Feb-2017 17:50:48 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[24-Feb-2017 17:50:49 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[24-Feb-2017 17:50:49 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[17-Mar-2017 16:34:05 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[17-Mar-2017 16:34:05 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[17-Mar-2017 21:49:40 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[17-Mar-2017 21:49:40 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[17-Mar-2017 21:49:41 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[17-Mar-2017 21:49:41 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[17-Mar-2017 21:49:58 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[17-Mar-2017 21:49:58 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[17-Mar-2017 21:49:58 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[17-Mar-2017 21:49:58 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[18-Mar-2017 20:44:29 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[18-Mar-2017 20:44:29 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[22-Mar-2017 04:27:27 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[22-Mar-2017 04:27:27 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[25-Mar-2017 08:47:24 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[25-Mar-2017 08:47:24 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[26-Mar-2017 00:56:36 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[26-Mar-2017 00:56:36 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[28-Mar-2017 17:24:13 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[28-Mar-2017 17:24:13 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[03-Apr-2017 10:11:50 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[03-Apr-2017 10:11:50 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[16-Apr-2017 21:49:51 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[16-Apr-2017 21:49:51 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[16-Apr-2017 21:49:51 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[16-Apr-2017 21:49:51 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[16-Apr-2017 21:50:09 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[16-Apr-2017 21:50:09 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[16-Apr-2017 21:50:09 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[16-Apr-2017 21:50:09 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[28-Apr-2017 12:22:40 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[28-Apr-2017 12:22:40 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[30-Apr-2017 04:04:20 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[30-Apr-2017 04:04:20 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[04-May-2017 23:59:22 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[04-May-2017 23:59:22 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[06-May-2017 00:43:40 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[06-May-2017 00:43:40 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[06-May-2017 05:58:34 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[06-May-2017 05:58:34 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[07-May-2017 00:13:13 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[07-May-2017 00:13:13 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[07-May-2017 00:19:20 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[07-May-2017 00:19:20 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[07-May-2017 09:07:28 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[07-May-2017 09:07:29 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[07-May-2017 09:16:12 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[07-May-2017 09:16:12 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[08-May-2017 01:46:49 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[08-May-2017 01:46:49 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[08-May-2017 01:47:28 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[08-May-2017 01:47:28 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[08-May-2017 14:50:25 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[08-May-2017 14:50:25 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[08-May-2017 19:21:45 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[08-May-2017 19:21:45 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[10-May-2017 04:01:59 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[10-May-2017 04:01:59 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[10-May-2017 05:07:02 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[10-May-2017 05:07:02 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[12-May-2017 21:32:52 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[12-May-2017 21:32:52 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[14-May-2017 00:07:25 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[14-May-2017 00:07:25 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[16-May-2017 18:42:29 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[16-May-2017 18:42:29 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[16-May-2017 21:51:58 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[16-May-2017 21:51:58 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[16-May-2017 21:51:59 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[16-May-2017 21:51:59 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[16-May-2017 21:52:18 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[16-May-2017 21:52:18 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[16-May-2017 21:52:18 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[16-May-2017 21:52:18 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[11-Jun-2017 23:43:36 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[11-Jun-2017 23:43:36 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[12-Jun-2017 05:11:47 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[12-Jun-2017 05:11:47 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[15-Jun-2017 21:49:53 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[15-Jun-2017 21:49:53 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[15-Jun-2017 21:49:53 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[15-Jun-2017 21:49:53 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[15-Jun-2017 21:50:20 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[15-Jun-2017 21:50:20 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[15-Jun-2017 21:50:20 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[15-Jun-2017 21:50:20 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[26-Jun-2017 08:44:38 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[26-Jun-2017 08:44:38 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[27-Jun-2017 03:12:55 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[27-Jun-2017 03:12:55 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[29-Jun-2017 22:27:44 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[29-Jun-2017 22:27:44 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[29-Jun-2017 22:31:23 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[29-Jun-2017 22:31:23 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[30-Jun-2017 13:24:34 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[30-Jun-2017 13:24:34 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[01-Jul-2017 03:42:17 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[01-Jul-2017 03:42:17 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[02-Jul-2017 06:08:56 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[02-Jul-2017 06:08:56 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[04-Jul-2017 19:29:38 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[04-Jul-2017 19:29:38 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[05-Jul-2017 21:20:58 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[05-Jul-2017 21:20:58 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[06-Jul-2017 01:41:51 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[06-Jul-2017 01:41:51 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[11-Jul-2017 21:22:18 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[11-Jul-2017 21:22:18 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[15-Jul-2017 21:49:34 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[15-Jul-2017 21:49:34 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[15-Jul-2017 21:49:34 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[15-Jul-2017 21:49:34 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[15-Jul-2017 21:49:53 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[15-Jul-2017 21:49:53 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[15-Jul-2017 21:49:53 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[15-Jul-2017 21:49:53 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[16-Jul-2017 08:16:59 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[16-Jul-2017 08:16:59 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[17-Jul-2017 09:21:30 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[17-Jul-2017 09:21:30 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[18-Jul-2017 10:35:21 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[18-Jul-2017 10:35:21 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[19-Jul-2017 08:04:23 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[19-Jul-2017 08:04:23 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[07-Aug-2017 16:20:50 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[07-Aug-2017 16:20:50 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[08-Aug-2017 12:51:07 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[08-Aug-2017 12:51:07 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[12-Aug-2017 15:16:05 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[12-Aug-2017 15:16:05 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[13-Aug-2017 18:57:03 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[13-Aug-2017 18:57:03 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[14-Aug-2017 21:50:40 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[14-Aug-2017 21:50:40 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[14-Aug-2017 21:50:40 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[14-Aug-2017 21:50:40 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[14-Aug-2017 21:51:04 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[14-Aug-2017 21:51:04 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[14-Aug-2017 21:51:04 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[14-Aug-2017 21:51:04 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[02-Sep-2017 13:40:12 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[02-Sep-2017 13:40:12 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[02-Sep-2017 18:18:03 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[02-Sep-2017 18:18:03 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[02-Sep-2017 18:18:09 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[02-Sep-2017 18:18:09 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[04-Sep-2017 03:47:53 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[04-Sep-2017 03:47:53 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[07-Sep-2017 06:48:21 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[07-Sep-2017 06:48:21 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[09-Sep-2017 08:07:02 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[09-Sep-2017 08:07:02 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[09-Sep-2017 08:55:30 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[09-Sep-2017 08:55:30 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[09-Sep-2017 19:39:07 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[09-Sep-2017 19:39:07 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[11-Sep-2017 01:40:33 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[11-Sep-2017 01:40:33 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[13-Sep-2017 22:15:29 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[13-Sep-2017 22:15:29 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[13-Sep-2017 22:15:29 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[13-Sep-2017 22:15:29 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[13-Sep-2017 22:21:02 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[13-Sep-2017 22:21:02 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[13-Sep-2017 22:21:02 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[13-Sep-2017 22:21:02 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[13-Oct-2017 01:21:01 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[13-Oct-2017 01:21:01 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[13-Oct-2017 04:15:53 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[13-Oct-2017 04:15:53 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[13-Oct-2017 22:16:46 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[13-Oct-2017 22:16:46 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[13-Oct-2017 22:16:46 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[13-Oct-2017 22:16:46 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[13-Oct-2017 22:22:14 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[13-Oct-2017 22:22:14 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[13-Oct-2017 22:22:14 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[13-Oct-2017 22:22:14 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[14-Oct-2017 01:15:50 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[14-Oct-2017 01:15:50 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[19-Oct-2017 02:23:38 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[19-Oct-2017 02:23:39 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[03-Nov-2017 18:20:07 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[03-Nov-2017 18:20:07 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[04-Nov-2017 17:47:07 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[04-Nov-2017 17:47:07 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[08-Nov-2017 21:30:21 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[08-Nov-2017 21:30:21 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[08-Nov-2017 21:59:22 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[08-Nov-2017 21:59:22 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[12-Nov-2017 22:21:02 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[12-Nov-2017 22:21:02 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[12-Nov-2017 22:21:02 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[12-Nov-2017 22:21:02 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[12-Nov-2017 22:26:32 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[12-Nov-2017 22:26:32 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[12-Nov-2017 22:26:32 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[12-Nov-2017 22:26:32 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/asthmapp.php on line 11
+[27-Nov-2017 18:56:26 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[27-Nov-2017 18:56:26 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[12-Dec-2017 22:16:01 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[12-Dec-2017 22:16:01 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[12-Dec-2017 22:16:01 America/Denver] PHP Notice:  Undefined variable: app in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10
+[12-Dec-2017 22:16:01 America/Denver] PHP Fatal error:  Call to a member function group() on null in /home2/tqgibicc/public_html/app_slim/v1/src/routes/pressure.php on line 10

@@ -1,0 +1,49 @@
+[2016-07-18 22:36:03] app-slim.DEBUG: Using token from request header [] {"uid":"a712e6e"}
+[2016-07-18 22:37:21] app-slim.DEBUG: Using token from request header [] {"uid":"6c0b9c8"}
+[2016-07-18 22:39:34] app-slim.DEBUG: Using token from request header [] {"uid":"7be251f"}
+[2016-07-18 22:39:34] app-slim.INFO: Request login for alejo.versa@gmail.com [] {"uid":"7be251f"}
+[2016-07-18 22:44:11] app-slim.DEBUG: Using token from request header [] {"uid":"e411c38"}
+[2016-07-18 22:44:11] app-slim.INFO: Request login for alejo.versas@gmail.com [] {"uid":"e411c38"}
+[2016-07-18 22:45:58] app-slim.DEBUG: Using token from request header [] {"uid":"fa10095"}
+[2016-07-18 22:45:58] app-slim.INFO: Request login for alejo.versas@gmail.com [] {"uid":"fa10095"}
+[2016-07-18 22:45:58] app-slim.INFO: Query login Ok [] {"uid":"fa10095"}
+[2016-07-18 22:47:56] app-slim.DEBUG: Using token from request header [] {"uid":"1d201dc"}
+[2016-07-18 22:47:56] app-slim.INFO: Request login for alejo.versas@gmail.com [] {"uid":"1d201dc"}
+[2016-07-18 22:47:56] app-slim.INFO: Query login Ok [] {"uid":"1d201dc"}
+[2016-07-18 22:47:56] app-slim.INFO: 0 [] {"uid":"1d201dc"}
+[2016-07-18 22:48:21] app-slim.DEBUG: Using token from request header [] {"uid":"9feeffb"}
+[2016-07-18 22:48:21] app-slim.INFO: Request login for alejo.versa@gmail.com [] {"uid":"9feeffb"}
+[2016-07-18 22:48:21] app-slim.INFO: Query login Ok [] {"uid":"9feeffb"}
+[2016-07-18 22:48:21] app-slim.INFO: 1 [] {"uid":"9feeffb"}
+[2016-07-18 22:51:32] app-slim.DEBUG: Using token from request header [] {"uid":"592d580"}
+[2016-07-18 22:51:32] app-slim.INFO: Request login for alejo.versa@gmail.com [] {"uid":"592d580"}
+[2016-07-18 22:51:32] app-slim.INFO: Query login Ok [] {"uid":"592d580"}
+[2016-07-18 22:51:32] app-slim.INFO: Login OK [] {"uid":"592d580"}
+[2016-07-18 22:51:49] app-slim.DEBUG: Using token from request header [] {"uid":"71f4e1a"}
+[2016-07-18 22:51:49] app-slim.INFO: Request login for alejos.versa@gmail.com [] {"uid":"71f4e1a"}
+[2016-07-18 22:51:49] app-slim.INFO: Query login Ok [] {"uid":"71f4e1a"}
+[2016-07-18 22:51:49] app-slim.INFO: Login Failed [] {"uid":"71f4e1a"}
+[2016-07-18 22:52:07] app-slim.DEBUG: Using token from request header [] {"uid":"1b3c2b6"}
+[2016-07-18 22:52:07] app-slim.INFO: Request login for alejos.versa@gmail.com [] {"uid":"1b3c2b6"}
+[2016-07-18 22:52:07] app-slim.INFO: Query login Ok [] {"uid":"1b3c2b6"}
+[2016-07-18 22:52:07] app-slim.INFO: Login Failed [] {"uid":"1b3c2b6"}
+[2016-07-18 22:53:13] app-slim.DEBUG: Using token from request header [] {"uid":"5851dee"}
+[2016-07-18 22:53:13] app-slim.INFO: Request login for alejos.versa@gmail.com [] {"uid":"5851dee"}
+[2016-07-18 22:53:13] app-slim.INFO: Query login Ok [] {"uid":"5851dee"}
+[2016-07-18 22:53:13] app-slim.INFO: Login Failed [] {"uid":"5851dee"}
+[2016-07-18 22:53:24] app-slim.DEBUG: Using token from request header [] {"uid":"9085ac6"}
+[2016-07-18 22:53:24] app-slim.INFO: Request login for alejos.versa@gmail.com [] {"uid":"9085ac6"}
+[2016-07-18 22:53:24] app-slim.INFO: Query login Ok [] {"uid":"9085ac6"}
+[2016-07-18 22:53:24] app-slim.INFO: Login Failed [] {"uid":"9085ac6"}
+[2016-07-18 22:53:58] app-slim.DEBUG: Using token from request header [] {"uid":"55aa44d"}
+[2016-07-18 22:53:58] app-slim.INFO: Request login for alejos.versa@gmail.com [] {"uid":"55aa44d"}
+[2016-07-18 22:53:58] app-slim.INFO: Query login Ok [] {"uid":"55aa44d"}
+[2016-07-18 22:53:58] app-slim.INFO: Login Failed [] {"uid":"55aa44d"}
+[2016-07-18 22:54:15] app-slim.DEBUG: Using token from request header [] {"uid":"735d1c0"}
+[2016-07-18 22:54:15] app-slim.INFO: Request login for alejo.versa@gmail.com [] {"uid":"735d1c0"}
+[2016-07-18 22:54:15] app-slim.INFO: Query login Ok [] {"uid":"735d1c0"}
+[2016-07-18 22:54:15] app-slim.INFO: Login OK [] {"uid":"735d1c0"}
+[2016-07-18 23:31:37] app-slim.DEBUG: Using token from request header [] {"uid":"6892cbf"}
+[2016-07-18 23:31:37] app-slim.INFO: Request login for alejo.versa@gmail.com [] {"uid":"6892cbf"}
+[2016-07-18 23:31:37] app-slim.INFO: Query login Ok [] {"uid":"6892cbf"}
+[2016-07-18 23:31:37] app-slim.INFO: Login OK [] {"uid":"6892cbf"}
